@@ -1,4 +1,4 @@
-# 📡 Networking Basics
+# Networking Basics
 
 Notes from **Cisco NetAcad — Networking Basics** and **Professor Messer N10-009**, written as part of my cybersecurity learning journey toward hardware and IoT pentesting.
 
@@ -7,25 +7,25 @@ Each module note includes:
 - Key terms and tables
 - **IoT/Hardware Pentesting Relevance** — how each topic connects to real-world security
 
----
+
 
 ## Progress
 
 | Module | Topic | Status |
 |--------|-------|--------|
-| Intro | Course Introduction | ✅ Done |
-| 1 | Communication in a Connected World | 🔄 92% |
-| 2 | Network Components, Types, and Connections | 🔄 92% |
-| 3 | Wireless and Mobile Networks | 🔄 88% |
-| 4 | Build a Home Network | ✅ Done |
-| 5 | Communication Principles | ✅ Done |
-| 6 | Network Media | 🔄 77% |
-| 7 | The Access Layer | ✅ Done |
-| 8 | The Internet Protocol | 🔄 75% |
-| 9 | IPv4 and Network Segmentation | ✅ Done |
-| 10–17 | Remaining Modules | ⏳ Pending |
+| Intro | Course Introduction | Done |
+| 1 | Communication in a Connected World | 92% |
+| 2 | Network Components, Types, and Connections | 92% |
+| 3 | Wireless and Mobile Networks | 88% |
+| 4 | Build a Home Network | Done |
+| 5 | Communication Principles | Done |
+| 6 | Network Media | 77% |
+| 7 | The Access Layer | Done |
+| 8 | The Internet Protocol | 75% |
+| 9 | IPv4 and Network Segmentation | Done |
+| 10–17 | Remaining Modules | Pending |
 
----
+
 
 ## Notes Index
 
@@ -39,6 +39,6 @@ Each module note includes:
 - [Module 8 — The Internet Protocol](./netacad-notes/module-08-internet-protocol.md)
 - [Module 9 — IPv4 and Network Segmentation](./netacad-notes/module-09-ipv4-network-segmentation.md)
 
----
+
 
 *Part of my [cybersecurity learning journey](https://github.com/YOUR_USERNAME/cybersec-journey)*
